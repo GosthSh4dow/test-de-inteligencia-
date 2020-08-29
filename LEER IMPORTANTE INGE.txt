@@ -1,0 +1,5 @@
+autores luis Acebeod y mair condori
+
+echo en lenguaje java 
+con netbenas 8.2 necesario tener el jdk 8.0 para arriba 
+librerias rjrusan
